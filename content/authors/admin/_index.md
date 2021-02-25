@@ -57,4 +57,4 @@ social:
 email: "skoller@miami.edu"
 ---
 
-I'm an Environmental Science and Policy PhD student at the University of Miami. My research combines environmental science and economics to study flood risk and flood risk mitigation policy design. Topics of interest include public infrastructure investments, land use, and insurance.
+I'm a second-year Environmental Science and Policy PhD student at the University of Miami's Abess Center for Ecosystem Science and Policy. My research combines environmental science and economics to study flood risk and policy design. Current work focuses on public infrastructure investments and land use policy in the floodplain, as well as the National Insurance Program.
