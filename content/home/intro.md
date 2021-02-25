@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Hi
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: ✏️ Welcome
+subtitle:
 
 design:
   background:
