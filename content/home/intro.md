@@ -13,6 +13,9 @@ subtitle:
 
 design:
   background:
-    color: '#090a0b'
+    image: IMG_8060.jpg
+    image_size: cover
+    image_position: center
+    image_parallax: true
     text_color_light: true
 ---
