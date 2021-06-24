@@ -8,12 +8,12 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Welcome !
+title: 
 subtitle:
 
 design:
   background:
-    image: IMG_8060.jpg
+    image: IMG_6459.JPG
     image_size: cover
     image_position: center
     image_parallax: true
