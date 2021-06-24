@@ -1,16 +1,13 @@
 ---
 title: 'Gowanus Watermark Walk — July 10'
 subtitle: ''
-summary: Here is a summary.
+summary:
 authors:
-- admin
-- 吳恩達
+
 tags:
-- Academic
-- 开源
+
 categories:
-- Demo
-- 教程
+
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -35,4 +32,4 @@ projects: []
 ---
 
 
-[If you're in NYC, come join us for a walking tour around the Gowanus Canal on July 10! We'll tour the extent of Hurricane Sandy's flooding extent and discuss the neighborhood's natural history, water management, and proposed rezoning. All welcome!](https://www.gowanuscanal.org/gowanus-watermark-walk-1).
+If you're in NYC, come join us for a walking tour around the Gowanus Canal on July 10! This event is part of the wider "City of Water Day" (https://www.hudsonriver.org/article/city-of-water-day-2021) celebration. We'll walk along the extent of Hurricane Sandy's floodline and discuss the neighborhood's natural history, water management system, present and future flood risk, and proposed rezoning. All are welcome!(https://www.gowanuscanal.org/gowanus-watermark-walk-1).

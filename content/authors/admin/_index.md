@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio
+bio:
 
 #interests:
 #- Artificial Intelligence
