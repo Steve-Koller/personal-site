@@ -2,4 +2,5 @@ module github.com/wowchemy/starter-blog
 
 go 1.14
 
-require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201125230219-3a03b728de8f // indirect
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v5.2.0+incompatible
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v5.2.0+incompatible
