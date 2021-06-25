@@ -20,7 +20,7 @@ draft: false
 image: featured.jpg
   placement: 2
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: Center
   preview_only: false
 
 # Projects (optional).
