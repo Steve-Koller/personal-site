@@ -13,7 +13,7 @@ subtitle:
 
 design:
   background:
-    image: IMG_6459.JPG
+    image: avatar.jpg
     image_size: cover
     image_position: center
     image_parallax: true
