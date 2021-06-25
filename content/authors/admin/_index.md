@@ -49,12 +49,12 @@ social:
   link: https://github.com/Steve-Koller
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+   icon_pack: ai
+   link: media/Koller_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "skoller@miami.edu"
 ---
 
-I'm a second-year Environmental Science and Policy PhD student at the University of Miami's Abess Center for Ecosystem Science and Policy. I study flood risk and policy design for equitable and effective flood risk mitigation in a changing climate. My current work is focused on flood risk mitigation infrastructure and its impacts on affected households; land use policy in the floodplain; housing density and National Flood Insurance Program outcomes; and tidal flooding impacts on low-income households. At the University of Miami, I am a member of the [Climate Risks and Preparedness](https://climateprep.rsmas.miami.edu/) and [Environmental and Resource Economics](https://ere.rsmas.miami.edu/index.html) labs.
+I'm a second-year Environmental Science and Policy PhD student at the University of Miami's Abess Center for Ecosystem Science and Policy. I study flood risk and policy design for equitable and effective flood risk mitigation in a changing climate. My current work is focused on flood risk mitigation infrastructure and its impacts on affected communities; land use policy in the floodplain; housing density and National Flood Insurance Program outcomes; and tidal flooding impacts on low-income households. At the University of Miami, I am a member of the [Climate Risks and Preparedness](https://climateprep.rsmas.miami.edu/) and [Environmental and Resource Economics](https://ere.rsmas.miami.edu/index.html) labs.
