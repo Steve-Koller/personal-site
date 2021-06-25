@@ -13,7 +13,7 @@ subtitle:
 
 design:
   background:
-    image: avatar.jpg
+    image: featured.jpg
     image_size: cover
     image_position: center
     image_parallax: true
