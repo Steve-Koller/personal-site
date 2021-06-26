@@ -13,7 +13,7 @@ subtitle:
 
 design:
   background:
-    image: featured.jpg
+    image: featured1.jpg
     image_size: cover
     image_position: center
     image_parallax: true
