@@ -12,4 +12,3 @@ design:
 ---
 
 
-![screen reader text](IMG_6436.jpg "caption")
