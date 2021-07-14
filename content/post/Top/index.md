@@ -8,7 +8,7 @@ tags:
 
 categories:
 
-date: ""
+#date: ""
 #lastmod: ""
 featured: false
 draft: false
@@ -32,4 +32,4 @@ projects: []
 ---
 
 
-As part of New York City's [City of Water Day](https://www.hudsonriver.org/article/city-of-water-day-2021) on July 10, I co-led a "Watermark Walk." On the two-hour tour, 15 of us walked along the extent of Hurricane Sandy's flooding extent in the Gowanus neighborhood. We discussed the neighborhood's natural history, pollution, water management system, present and future flood risk, and proposed rezoning. More info [here](https://www.gowanuscanal.org/gowanus-watermark-walk-1).
+On July 10 as part of New York City's [City of Water Day](https://www.hudsonriver.org/article/city-of-water-day-2021), I was lucky to co-lead a "Watermark Walk" around the bottom of the Gowanus watershed. On the two-hour tour, 15 of us walked along the extent of Hurricane Sandy's flooding extent in one of the city's mosty heavily polluted neighborhoods. We discussed the neighborhood's natural history, pollution, water management system, present and future flood risk, and proposed rezoning. More info [here](https://www.gowanuscanal.org/gowanus-watermark-walk-1).
