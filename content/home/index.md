@@ -6,5 +6,5 @@ type: widget_page
 headless: false
 
 #title
-title: 'News and updates'
+title: ''
 ---
