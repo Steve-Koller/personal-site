@@ -33,7 +33,7 @@ subtitle = ""
     
   [content.archive]
     enable = true
-    text = "See all blog posts"
+    text = "What's new"
     link = "post/"
     
 [design]
