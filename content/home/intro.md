@@ -8,7 +8,7 @@ headless: false
 # Order that this section will appear in.
 weight: 10
 
-title: 'News and updates'
+title: News and updates
 subtitle:
 
 design:
