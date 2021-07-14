@@ -32,4 +32,4 @@ projects: []
 ---
 
 
-If you're in NYC, come join for a walking tour around the Gowanus Canal on July 10. This event is part of the wider [City of Water Day](https://www.hudsonriver.org/article/city-of-water-day-2021) celebration. We'll walk along the extent of Hurricane Sandy's floodline and discuss the neighborhood's natural history, water management system, present and future flood risk, and proposed rezoning. All are welcome! More info [here](https://www.gowanuscanal.org/gowanus-watermark-walk-1).
+As part of New York City's [City of Water Day](https://www.hudsonriver.org/article/city-of-water-day-2021) on July 10, I co-led a "Watermark Walk." On the two-hour tour, 15 of us walked along the extent of Hurricane Sandy's flooding extent in the Gowanus neighborhood. We discussed the neighborhood's natural history, pollution, water management system, present and future flood risk, and proposed rezoning. More info [here](https://www.gowanuscanal.org/gowanus-watermark-walk-1).
