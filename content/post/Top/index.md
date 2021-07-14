@@ -8,7 +8,7 @@ tags:
 
 categories:
 
-#date: ""
+date: ""
 #lastmod: ""
 featured: false
 draft: false
