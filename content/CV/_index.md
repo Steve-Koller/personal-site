@@ -1,4 +1,7 @@
 ---
+
+type: widget_page
+
 title: An example title
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
@@ -13,6 +16,5 @@ header:
   caption: ""
   image: ""
 ---
-
 
 {{% staticref "uploads/Koller_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
