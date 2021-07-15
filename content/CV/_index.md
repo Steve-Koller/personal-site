@@ -2,9 +2,9 @@
 
 type: widget_page
 
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title:
+summary: 
+date:
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -17,4 +17,4 @@ header:
   image: ""
 ---
 
-{{% staticref "uploads/Koller_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/CV.pdf" "newtab" %}}Download my CV.{{% /staticref %}}
