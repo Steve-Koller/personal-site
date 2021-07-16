@@ -10,8 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: 1
     # Customize the section spacing. Order is top, right, bottom, left.
-  background:
-    image: IMG_6436.jpg
+  #background:
+   # image: IMG_6436.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     #  Options are `cover` (default), `contain`, or `actual` size.
     #image_size: cover
