@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: false
+headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Welcome!
@@ -24,5 +24,5 @@ design:
     
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0px", "0", "0px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 ---
