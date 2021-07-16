@@ -13,9 +13,9 @@ design:
 
   background:
     # Name of image in `assets/media/`.
-    image: IMG_6436.png
+    image: IMG_6436.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.6
+    image_darken: 0.4
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -27,7 +27,7 @@ design:
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 
 ---
 
